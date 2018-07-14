@@ -1,0 +1,1 @@
+# Display-value-using-HTML-Dictionary-in-Django-
